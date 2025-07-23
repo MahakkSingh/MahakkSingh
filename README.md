@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Mahak 👋
+A passionate tech enthusiast, future GSoC contributor & full-stack dev in progress! 🛠️
 
-<!--
-**MahakkSingh/MahakkSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack:
+- Languages: Python, JavaScript, C++
+- Web Dev: HTML, CSS, React, Node.js
+- Tools: Git, GitHub, VS Code
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MahakSingh&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/mahaksingh344)
